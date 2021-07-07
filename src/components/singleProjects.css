@@ -1,0 +1,142 @@
+/* .modal__header{
+    /* height: 40% ;
+    width: 50% ;
+    z-index: 100 ;
+    background: white ;
+    position: absolute ;
+    top: 33% ;
+    left: 25% ;
+    border-radius: 1rem;
+    border: solid 1px #fff2d6;
+    box-shadow:2px 1px #CCFFFF ;    */
+
+    /* height: 40% ;
+    width: 50% ;
+    z-index: 100 ;
+    background: white ;
+    position: absolute ;
+    top: 33% ;
+    left: 25% ;
+    border-radius: 1rem;
+    border: solid 1px #fff2d6;
+    box-shadow:2px 1px #CCFFFF ;}
+
+.mentor__name{
+    text-align:center;
+    padding:1rem;
+    font-style:normal;
+    font-size:14px
+}
+
+.modal__body{
+    text-align:left ;
+    display:inline-list-item ;
+    font-style:normal ;
+    font-size:12px ;
+    margin-left:2rem ;
+    color: azure;
+}
+
+.modal__body h4{
+    color:black;
+    margin-bottom:1rem
+}
+ */ */
+
+ .modal__header{
+    height: 60vh ;
+    width: 80% ;
+    background: white ;
+    border-radius: 1rem;
+    border: solid 1px #fff2d6;
+    box-shadow:2px 1px #CCFFFF ;   
+}
+
+.mentor__name{
+    text-align:center;
+    padding:1rem;
+    font-style:normal;
+    font-size:14px
+}
+
+.modal__body{
+    text-align:left ;
+    display:inline-list-item ;
+    font-style:normal ;
+    font-size:12px ;
+    margin-left:2rem ;
+}
+
+.modal__body h4{
+    color:black;
+    margin-bottom:1rem
+}
+
+.modal__comment h5{
+    color:#a6a6a6;
+    font-style:italic;
+    margin-left:2rem;
+    margin-top:1.5rem;
+}
+
+.modal__comment input{
+    margin-top:0.5rem;
+    margin-left:2rem;
+    outline: none !important;
+    border:solid 1px #707070;
+    height:50px;
+    cursor:pointer;
+    width:75%;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    border-radius:2rem
+}
+
+.modal__comment button{
+    background-color:#2989e4;
+    margin-left:1.5rem;
+    color:white;
+    border:none;
+    outline-color:white;
+    height:40px;
+    cursor:pointer;
+    width:90px;
+    border-radius:2rem;
+    font-size:12px
+}
+
+.modal_body_border{
+        width: 70%;
+        background: #101010;
+        border: 1px solid;
+        box-shadow: 5px 5px #7e7979ee;
+        opacity:1;
+        border-radius: 2rem;
+        margin-right: 5rem;
+        left: 15%;
+        position: absolute;
+}
+
+.modal_body{
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+}
+
+.button_modal{
+    background:#101010;
+    float: right; 
+    border: none;
+    color:white;
+     cursor: pointer;
+     margin-top:2rem;
+      margin-right:2rem
+}
+
+.item_description{
+    display: inline-block;
+    margin-top:3rem ;
+    color: white;
+     text-align: left;
+}

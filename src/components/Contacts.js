@@ -1,35 +1,4 @@
-// import React from 'react'
-// import './home.css'
-// import { SocialIcon } from 'react-social-icons';
-// import { FaGoogleDrive } from "react-icons/fa";
-// import { MdPlusOne } from "react-icons/md";
-// function Contacts() {
-//     return (
-//         <div style={{marginBottom:'5rem'}}>
-//         <h1 >
-//         <span style={{color:'white', fontFamily:'Lato', fontStyle:'italic', fontSize:'2rem',marginTop:'0.5rem'}}>Contact <span style={{color:'yellow'}}>Me?</span></span>
-//        </h1>
-//         <div style={{color:'white', background:'#3d3b3b27',marginRight:'12rem', marginLeft:'12rem', paddingLeft:'2rem',boxShadow:'inherit', paddingRight:'2rem',paddingBottom:'2rem'}} >
-//          <h4 style={{paddingTop:'2rem',fontSize:'1rem'}}> Since you are in this section now, I believe you went through the other sections.
-//          <br/>
-//          <h4 style={{color:'yellow'}}> Here's my resume :  <a style={{color:'yellow', textDecoration:'none'}}  href="https://drive.google.com/file/d/1anntY00HmXe_CDHpXb2YO3L8SPowy4Gm/view?usp=sharing">  <FaGoogleDrive style={{color:'aquamarine', cursor:'pointer'}}/></a></h4>
-//          <span style={{ fontSize:'1rem',fontStyle:'italic', fontFamily:'lato', color:'aquamarine'}}>
-//          CONNECT   @<MdPlusOne style={{height:'2rem',width:'1rem', color:'yellow'}}/>
-//         </span>
-//          </h4>
-//          <span >
-//          <span style={{padding:'1rem'}}><SocialIcon url="https://www.linkedin.com/in/trishna-k-565216b6/"/></span>
-//          <span style={{padding:'1rem'}}><SocialIcon url="https://github.com/trishnakalita660"/></span>
-//          <span style={{padding:'1rem'}}><SocialIcon url="https://www.instagram.com/trishna__01/"/></span>
-//          <span style={{padding:'1rem'}}><SocialIcon url="https://www.facebook.com/trishna.kalita.184007/"/></span>
-//          <span style={{padding:'1rem'}}><SocialIcon url="https://twitter.com/TrishnaKalita9"/></span></span>
-//         </div>
-
-//         </div>
-//     )
-// }
-
-// export default Contacts
+ 
 
 import React from "react";
 import "./home.css";
@@ -98,7 +67,7 @@ function Contacts(props) {
                   Here's my resume :{" "}
                   <a
                     style={{ color: "yellow", textDecoration: "none" }}
-                    href="https://drive.google.com/file/d/1anntY00HmXe_CDHpXb2YO3L8SPowy4Gm/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1Mo8CAWd2Ln6awelRHSbEoUbDB74OMGvG/view?usp=sharing"
                   >
                     {" "}
                     <FaGoogleDrive

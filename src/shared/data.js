@@ -2,7 +2,7 @@
   {
     id: 0,
     title: "Tecnoesis 2k20",
-    image: "https://raw.githubusercontent.com/trishnakalita660/portfolio/main/public/images/ecnoesis/sample3.jpeg",
+    image: "https://raw.githubusercontent.com/trishnakalita660/port-folio/main/public/images/tecnoesis/sample3.jpeg",
     category: "Android",
     github: "https://play.google.com/store/apps/details?id=com.github.tenx.tecnoesis20",
     link:"",
@@ -16,7 +16,7 @@
   {
     id: 1,
     title: "Covid Tracker",
-    image: "https://lh3.googleusercontent.com/2mZrDIDOBpo0ANfKY5cfBHegAz8gtXb68PTsaajdmkDTcuJ0EocPn3yENGEnI56VrgZTuxeihJoU4F_QBU2XUNvAR2eJkTjXt2wu5t8QMa5A-0ztIEU-Ey36W7G0NLMX8C5fsaMNApGDc8JIt--FLFb4xpVmcLYFIPfAZOolS0J3CaSaIuylj5rQ4XylodDCVqNF9yjhAe93yQKG4MygpIbDhysJSzOISQ4SLSPRotfjuHF0pJXr3hKglCC9ITyieTVZKw2FUlVaQwdta9vrDIRiQa19coiFNvwsT7Ca6xi5jnq9DiBd7DpkK-JmnSf2pwqdtNSE3vrG29aY58RMVhG1QFYtQLIW2HzujXjtfTllVyHMySArkjyA4di8VvK2IEABqfSvJThOCz5_SnHWHKiwmzMCHF_4yJDcLgKIdlnClIiFLpN8-amCF81VR9bNE44_Et4yZ-w_6ve7K0d_vRwGmmnEu1w0np4TTFY2O07CocrPYKGJA_z4H2edrWz2g9d9Pg0Ar0aR_YzjoXNz9R5L-b8rKxoIKfUMMoNCAmsnZjFOc6r0qlJp6wytfVBmXa-68Z3mIIJ-yt_A0ZftlIg7L9lb0kZRQrE5VCs5hAHEHzbiGh78KXR_g5VRKafd8f82jibgowHjSPf_1kxnJZ3sWx3aF_9WcqR7bnU2TCoi-NmPVGc8IQ6g9AUIpBfFJMrrecL13V40vaCJAOTbBWS3=w787-h578-no?authuser=0",
+    image: "https://raw.githubusercontent.com/trishnakalita660/port-folio/main/public/images/covid/sample1.png",
     category: "Web",
     github: "https://trishnakalita660.github.io/Covid-impl/",
     link:"Not Launched",
@@ -30,13 +30,13 @@
   {
     id: 2,
     title: "SHOPAHOLIC  ",
-    image: "https://raw.githubusercontent.com/trishnakalita660/portfolio/main/public/images/Xcom/Capture2.png",
+    image: "https://raw.githubusercontent.com/trishnakalita660/port-folio/main/public/images/shopaholic/Capture1.PNG",
     category: "Web",
     github: "https://clone-8f15b.web.app/",
     link:"Not Launched",
-    techStack:"ReactJs, SCSS, Firebase, GraphQL",
+    techStack:"ReactJs, Firebase",
     images: {
-      image1: "https://raw.githubusercontent.com/trishnakalita660/portfolio/main/public/images/Xcom/Capture2.png",
+      image1: "https://raw.githubusercontent.com/trishnakalita660/port-folio/main/public/images/shopaholic/Capture1.PNG",
       image2: "https://lh3.googleusercontent.com/GMBPPYPE_EcPhFwD6lwb22GXMDxn2WaS0a9OdGy4GMNnPv18pmRA2DxP-mQ-fMEO7ch62JK-IKbe3-IG8rLy1WrEv5JTzmO3MzzLUyCj6iAjpFIbAc3Uc8MOk00F40Lwd7ag0SmTq4grjSL4dhflWG_pC7Uhhs34ucyxtD_4DepUApXAX-XweR7U2mKQ-EEnfFA_089m1JTJ-pIUkjgEp4LgI2eIg_SC6Y34pSWiNVH7ig1Fx0QUZbogR-oLG3WMOcJ_N2mOxQYjV7-EOndM6czRcgRKI15vaacEyUpwl2_Pn5lI7MFcy0gIGkKeWgqIXeAVG1Bdu9ZexmYG40zYVvzzHeAkcoFPb6Nz4DMMcgI1oFAYZ_WRSwnz4fz0_K_ZSTjYMv25OZ8slyRFQN_181CRcNXgZiDJ8uKojRvBIm1gNXXqVWvztBSB5oXOGcyb7tey56UGA0tWDWKJxK1uDqBHuW-NNilaY8gWvC8h2O3pghYDkQbQZFTx_XNPLrkxBfMlRDZwiwEmJhm0RFM0CWylHo0e6DTIbE7f9fCx-gfMiLSgZNugTtfe3ByesSqfIFhyl3GeRrSiWgCkfITXKY691Ja2W7i6cZBzjUVNWJeacmjnZfe0scrFBKveqdnxIR4TafzkqAM-VkAqfQk8PzEjcrclDhSMHH-3gqvaZVrfDDCkZcxuhqD2crLq0Uibc_CV_pk1v5NdlSHpGc33iXHg=w288-h441-no?authuser=0",
     },
     description: "• The application is developed in same lines of Google I/O mobile app to facilitate online purchase and delivery of items from the Fair Price Shop , inside NIT Silchar Campus, where I developed the client side of the application using XML and Java.",
@@ -44,7 +44,7 @@
   {
     id: 3,
     title: "XCOM  ",
-    image: "https://raw.githubusercontent.com/trishnakalita660/portfolio/main/public/images/Xcom/Capture2.png",
+    image: "https://raw.githubusercontent.com/trishnakalita660/port-folio/main/public/images/Xcom/Capture2.png",
     category: "Android",
     github: "https://github.com/trishnakalita660/XCom",
     link:"Not Launched",

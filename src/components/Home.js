@@ -1,6 +1,6 @@
 import React from "react";
 import "./home.css";
-// import Typical from "react-typical";
+import TypeAnimation from 'react-type-animation';
 import { Button } from "reactstrap";
 import Navbar from "./Navbar";
 import Buttons from "./Buttons";
@@ -16,7 +16,18 @@ function Home() {
         Hi All, I'm <span style={{ color: "yellow" }}> Trishna</span>
         <br />
         <span style={{ color: "#ffbf00", fontSize: "2rem" }}>
-          
+        <TypeAnimation
+        cursor={true}
+        sequence={[
+          'Front-End Enthusiast',
+          2000,
+          'React Developer',
+          2000,
+          'NIT, Silchar',
+        ]}
+        wrapper="a"
+        repeat={3}
+       />
         </span>
         
       </h2>

@@ -67,7 +67,8 @@ function Contacts(props) {
                   Here's my resume :{" "}
                   <a
                     style={{ color: "yellow", textDecoration: "none" }}
-                    href="https://drive.google.com/file/d/1Mo8CAWd2Ln6awelRHSbEoUbDB74OMGvG/view?usp=sharing"
+                    
+                   href="https://drive.google.com/file/d/1Mo8CAWd2Ln6awelRHSbEoUbDB74OMGvG/view?usp=sharing"
                   >
                     {" "}
                     <FaGoogleDrive

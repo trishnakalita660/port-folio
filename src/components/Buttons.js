@@ -27,7 +27,7 @@ function Buttons() {
           </NavLink>
           </Button>
 
-          <Button onClick={() => {window.open('https://drive.google.com/file/d/1SyUU8x_j5AHU6zi4dUmV_LpHW-RjIP9E/view?usp=sharing');}} className="nav__links" style={{background:'#008B8B',border:'none',padding:'8px', textAlign:'center', fontSize:'1rem',color:'white',cursor:'pointer', width:'8rem', margin:'1rem',borderRadius:'3px'}}>
+          <Button onClick={() => {window.open('https://drive.google.com/file/d/1Mo8CAWd2Ln6awelRHSbEoUbDB74OMGvG/view?usp=sharing');}} className="nav__links" style={{background:'#008B8B',border:'none',padding:'8px', textAlign:'center', fontSize:'1rem',color:'white',cursor:'pointer', width:'8rem', margin:'1rem',borderRadius:'3px'}}>
             MY RESUME
           
           </Button>
